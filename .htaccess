@@ -1,0 +1,1 @@
+ErrorDocument 404 http://localhost:7882/cms/404.php
