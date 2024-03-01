@@ -21,7 +21,7 @@ Welcome to my simple Content Management System (CMS) built using PHP! This proje
 7. Access the CMS through your web browser and login using the default administrator credentials.
 
 ## Database
-You will find the database file in "includes" folder with file name "db".
+You will find the database file in "includes" folder with file name "db.php".
 
 ## Usage:
 1. **Login:** Access the CMS using your administrator credentials.
