@@ -15,10 +15,6 @@ Welcome to my simple Content Management System (CMS) built using PHP! This proje
 1. Clone the repository to your local machine or download the source code.
 2. Make sure you have PHP installed on your server along with a MySQL database.
 3. Import the database schema provided in the `database.sql` file to set up the required tables.
-4. Update the `config.php` file with your database credentials and site settings.
-5. Upload the files to your web server.
-6. Ensure proper file permissions are set for security purposes.
-7. Access the CMS through your web browser and login using the default administrator credentials.
 
 ## Database
 You will find the database file in "includes" folder with file name "db.php".
